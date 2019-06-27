@@ -3,7 +3,7 @@ $primaryColor: #3d4e61;
 @mixin font {
   font-size: 16px;
   line-height: 24px;
-  color: #3D4E61;
+  color: $primaryColor;
 }
 
 .container {
